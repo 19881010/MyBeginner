@@ -1,2 +1,2 @@
 # MyBeginner
-demo
+一个小游戏
